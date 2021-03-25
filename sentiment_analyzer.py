@@ -16,7 +16,6 @@ from tweepy.auth import OAuthHandler
 from textblob import TextBlob
 import pandas as pd
 import re
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
 
